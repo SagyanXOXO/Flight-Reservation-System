@@ -12,6 +12,10 @@ Activate the virtualenv for your project.
 Install project dependencies:
 
     $ pip install -r requirements.txt
+
+Go inside the reservation_system folder
+
+    ``` cd reservation_system ```
     
     
 Run the application for the staff:
