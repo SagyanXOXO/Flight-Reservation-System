@@ -15,7 +15,7 @@ Install project dependencies:
 
 Go inside the reservation_system folder
 
-    ``` cd reservation_system ```
+    $ cd reservation_system
     
     
 Run the application for the staff:
